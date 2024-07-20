@@ -1,1 +1,1 @@
-# resume
+https://bariskulekci.github.io/resume/
